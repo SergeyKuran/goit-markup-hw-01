@@ -1,0 +1,17 @@
+
+
+/* Фон main */
+body{
+    background-color: #F5F5F5;}
+
+
+.button:hover,
+.button:focus{
+    color: #087ff7;}
+
+/*our-contact*/
+
+.our-contact :hover,
+.our-contact :focus{
+color: yellowgreen;
+}
